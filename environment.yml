@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - atomap
+  - scikit-learn
+  - hyperspy-base
+  - hyperspy-gui-ipywidgets
+  - particlespy
+  - pyxem
+
