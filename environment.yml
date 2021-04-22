@@ -6,6 +6,7 @@ dependencies:
   - scikit-learn
   - hyperspy-base
   - hyperspy-gui-ipywidgets
+  - ipympl
   - nglview
   - particlespy
   - pyprismatic
